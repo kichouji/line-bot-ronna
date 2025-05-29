@@ -1,4 +1,4 @@
-# LINE Bot Ronna
+# LINE Bot ろんな
 
 ## 概要
 昭和のおばあちゃん風の応答を生成するLINE Bot「ろんな」です。このプロジェクトはAzure Functionsを使用して構築されており、OpenAIのAPIを活用してユーザーとの対話を行います。
@@ -22,7 +22,7 @@
 ## セットアップ手順
 1. **リポジトリをクローン**
 ```bash
-git clone <リポジトリURL>
+git clone https://github.com/kichouji/line-bot-ronna
 cd line-bot-ronna
 ```
 
